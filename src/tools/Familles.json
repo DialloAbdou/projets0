@@ -1,0 +1,21 @@
+{
+    "membre1" :{
+        "nom":"diallo",
+        "prenom" : "Abdou",
+        "age":20,
+        "adresse": "Allee Réaumure"
+    },
+   " membre2":{
+     "nom":"Barry",
+     "prenom" :"Mamadou",
+     "age":30,
+    "adresse": "Martir allée Réaumure"
+    },
+
+    "membre3"  :{
+     "nom":"Bah",
+     "prenom": "Eric",
+     "age":10,
+     "adresse": "Martin Tuming"
+     }
+}
